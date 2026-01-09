@@ -13,13 +13,7 @@
 ---
 
 # 💻 TryHackMe Stats
-
-<p align="center">
-  <a href="https://tryhackme.com/p/nischayabeniwal">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/nischayabeniwal.png" width="600">
-  </a>
-</p>
-
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/nischayabeniwal.png)](https://tryhackme.com/p/nischayabeniwal)
 
 ---
 
