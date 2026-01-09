@@ -16,9 +16,10 @@
 
 <p align="center">
   <a href="https://tryhackme.com/p/nischayabeniwal">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/nischayabeniwal.png" width="700" alt="TryHackMe Badge">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/nischayabeniwal.png" width="600">
   </a>
 </p>
+
 
 ---
 
