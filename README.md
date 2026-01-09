@@ -12,7 +12,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Nischayabeniwal&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nischayabeniwal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 # 💻 TryHackMe Stats:
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/nischayabeniwal.png)](https://tryhackme.com/p/nischayabeniwal)
+<p align="center"><a href="https://tryhackme.com/p/nischayabeniwal"><img src="https://tryhackme-badges.s3.amazonaws.com/nischayabeniwal.png" width="700"></a></p>
 <!--## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Nischayabeniwal&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 -->
